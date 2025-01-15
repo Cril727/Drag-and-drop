@@ -1,0 +1,17 @@
+img{
+    border-radius: 10px;
+    width: 177px;
+    height: 300;
+}
+
+.box{
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 180px;
+    height: 180px;
+    border: 2px dashed #000;
+}
+
+#text{
+    text-align: center;
+}
